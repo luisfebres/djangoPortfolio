@@ -1,15 +1,15 @@
 ## Django Portofolio Example
 
-this is a basic portfolio in dark mode
-![](./screenshot.png)
+Este es el protafolio basico.
+![](./project-screenshot.png)
 
-### Installation
+### Instalacion
 
 ```
-git clone https://github.com/FaztWeb/django-portfolio-simple.git
+git clone https://github.com/luisfebres/djangoPortfolio.git
 cd django-portfolio-simple
 pip install -r requirements.txt
 python manage.py runserver
 ```
 
-now you can visit <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>
+Ahora solo debes visitar <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>
